@@ -60,3 +60,10 @@ KZHomePage是静态的个人主页网站，可以将代码托管在Github、Gite
 https://github.com/metowolf/Meting
 
 https://aplayer.js.org/
+
+## Star Charts
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Aiazt/KZHomePageBeautify.svg)](https://starchart.cc/Aiazt/KZHomePageBeautify)
+
