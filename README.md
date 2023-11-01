@@ -61,9 +61,8 @@ https://github.com/metowolf/Meting
 
 https://aplayer.js.org/
 
-## Star Charts
-
 ## Stargazers over time
+Star Charts：https://starchart.cc/
 
 [![Stargazers over time](https://starchart.cc/Aiazt/KZHomePageBeautify.svg)](https://starchart.cc/Aiazt/KZHomePageBeautify)
 
